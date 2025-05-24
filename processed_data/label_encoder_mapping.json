@@ -1,0 +1,77 @@
+{
+  "gender": [
+    "F",
+    "M",
+    "Unknown"
+  ],
+  "ethnicity": [
+    "Unknown",
+    "asian",
+    "black",
+    "latino",
+    "white"
+  ],
+  "class": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "Unknown"
+  ],
+  "hair_color": [
+    "BLK",
+    "BLN",
+    "BRO",
+    "GRY",
+    "Unknown"
+  ],
+  "eye_color": [
+    "BLU",
+    "BRO",
+    "GRA",
+    "GRE",
+    "Unknown"
+  ],
+  "fraudpattern": [
+    "Fraud5_inpaint_and_rewrite",
+    "Fraud6_crop_and_replace",
+    "Unknown"
+  ],
+  "srcfontstyle": [
+    "Arial_Bold.ttf",
+    "Unknown"
+  ],
+  "desfontstyle": [
+    "DejaVuMathTeXGyre.ttf",
+    "DejaVuSans-Bold.ttf",
+    "DejaVuSans-BoldOblique.ttf",
+    "DejaVuSans-ExtraLight.ttf",
+    "DejaVuSans-Oblique.ttf",
+    "DejaVuSans.ttf",
+    "DejaVuSansCondensed-Bold.ttf",
+    "DejaVuSansCondensed-BoldOblique.ttf",
+    "DejaVuSansCondensed-Oblique.ttf",
+    "DejaVuSansCondensed.ttf",
+    "DejaVuSansMono-Bold.ttf",
+    "DejaVuSansMono-BoldOblique.ttf",
+    "DejaVuSansMono-Oblique.ttf",
+    "DejaVuSansMono.ttf",
+    "DejaVuSerif-Bold.ttf",
+    "DejaVuSerif-BoldItalic.ttf",
+    "DejaVuSerif-Italic.ttf",
+    "DejaVuSerif.ttf",
+    "DejaVuSerifCondensed-Bold.ttf",
+    "DejaVuSerifCondensed-BoldItalic.ttf",
+    "DejaVuSerifCondensed-Italic.ttf",
+    "DejaVuSerifCondensed.ttf",
+    "Unknown"
+  ],
+  "srcregionfontstyle": [
+    "Arial_Bold.ttf",
+    "Unknown"
+  ],
+  "desregionfontstyle": [
+    "Arial_Bold.ttf",
+    "Unknown"
+  ]
+}
